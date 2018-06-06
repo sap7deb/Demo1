@@ -37,4 +37,9 @@ public class AppTest
     {
         assertTrue( true );
     }
+    @Test
+    public void testApp4()
+    {
+        assertTrue( true );
+    }
 }
